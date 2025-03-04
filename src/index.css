@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+ */
+
+html {
+    scroll-behavior: smooth;
+  }
+
+  .nav-link:hover {
+    color: cyan;
+    text-decoration: underline;
+  }
+  
+  
